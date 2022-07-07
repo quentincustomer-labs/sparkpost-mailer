@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace Gam6itko\Symfony\Mailer\SparkPost\Transport;
+namespace QuentincustomerLabs\Symfony\Mailer\SparkPost\Transport;
 
 use Symfony\Component\Mailer\Exception\UnsupportedSchemeException;
 use Symfony\Component\Mailer\Transport\AbstractTransportFactory;
