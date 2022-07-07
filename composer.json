@@ -1,5 +1,5 @@
 {
-    "name": "gam6itko/sparkpost-mailer",
+    "name": "quentincustomer-labs/sparkpost-mailer",
     "type": "symfony-bridge",
     "description": "Symfony SparkPost Mailer Bridge",
     "keywords": ["symfony", "mailer", "sparkpost"],
@@ -22,9 +22,9 @@
         "symfony/http-client": "^4.4|^5.0"
     },
     "autoload": {
-        "psr-4": {"Gam6itko\\Symfony\\Mailer\\SparkPost\\": "src"}
+        "psr-4": {"Quentincustomer-labs\\Symfony\\Mailer\\SparkPost\\": "src"}
     },
     "autoload-dev": {
-        "psr-4": {"Gam6itko\\Symfony\\Mailer\\SparkPost\\Test\\": "tests"}
+        "psr-4": {"Quentincustomer-labs\\Symfony\\Mailer\\SparkPost\\Test\\": "tests"}
     }
 }
