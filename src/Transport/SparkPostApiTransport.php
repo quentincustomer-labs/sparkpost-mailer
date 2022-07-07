@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace Gam6itko\Symfony\Mailer\SparkPost\Transport;
+namespace QuentincustomerLabs\Symfony\Mailer\SparkPost\Transport;
 
 use Gam6itko\Symfony\Mailer\SparkPost\Mime\SparkPostEmail;
 use Psr\Log\LoggerInterface;
